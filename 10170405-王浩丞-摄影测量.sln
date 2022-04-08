@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10170405-王浩丞-摄影测量", "10170405-王浩丞-摄影测量\10170405-王浩丞-摄影测量.csproj", "{3F5C1EC4-07BF-43F8-9453-C7A19B214470}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F5C1EC4-07BF-43F8-9453-C7A19B214470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F5C1EC4-07BF-43F8-9453-C7A19B214470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F5C1EC4-07BF-43F8-9453-C7A19B214470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F5C1EC4-07BF-43F8-9453-C7A19B214470}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3D7D099-37FA-4F2A-A1FD-1A6574B28111}
+	EndGlobalSection
+EndGlobal
